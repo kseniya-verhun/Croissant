@@ -1,0 +1,17 @@
+body {
+    background-color: #f8e8a6;
+    text-align: center;
+}
+
+footer a {
+    color: green;
+    margin: 0 10px;
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
